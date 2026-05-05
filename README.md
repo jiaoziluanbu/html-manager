@@ -1,3 +1,9 @@
+<div align="right">
+
+**简体中文** · [English](README.en.md)
+
+</div>
+
 # HTML 管理器
 
 > 把电脑里散落各处的 `.html` 文件，像管理文档一样集中起来。
@@ -6,6 +12,13 @@
 
 <p align="center">
   <img src="assets/AppIcon.icns" width="128" alt="logo" />
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
+  <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python 3.9+">
+  <img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="macOS">
+  <img src="https://img.shields.io/badge/dependencies-zero-brightgreen.svg" alt="零依赖">
 </p>
 
 ---
